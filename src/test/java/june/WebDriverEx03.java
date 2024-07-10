@@ -29,7 +29,7 @@ public class WebDriverEx03 {
 
     @Test
     public void Test01() {
-        System.out.println("Hello");
+        System.out.println("test");
     }
 }
 
